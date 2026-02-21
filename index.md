@@ -39,8 +39,8 @@ If you have any questions about this Privacy Policy, please contact us at blog.m
 
 ---
 
-**Effective Date:** [Today's Date]
+**Effective Date:** 22.02.2026
 Instructions to Use:
-Replace **PASMA** with the name of your application.
+**PASMA**
 blog.mahbub.me@gmail.com
 22.02.2026
